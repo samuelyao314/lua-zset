@@ -1,4 +1,4 @@
-//
+// 更详细的说明见 http://redisbook.com/preview/skiplist/api.html
 #include <stdlib.h>
 
 #define SKIPLIST_MAXLEVEL 32
